@@ -1,0 +1,258 @@
+[
+    {
+        "type": "CHAdeMO",
+        "connectorPowerKW": 50,
+        "manufacturer": "Tesla",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 1",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    76.6342,
+                    12.3373
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS",
+        "connectorPowerKW": 250,
+        "manufacturer": "Siemens",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 2",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5947,
+                    12.9717
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS2",
+        "connectorPowerKW": 350,
+        "manufacturer": "ABB",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 3",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.6447,
+                    13.0217
+                ]
+            }
+        }
+    },
+    {
+        "type": "GBT",
+        "connectorPowerKW": 60,
+        "manufacturer": "Tesla",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 4",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5946,
+                    12.9716
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS",
+        "connectorPowerKW": 350,
+        "manufacturer": "Siemens",
+        "availability": false,
+        "chargePoint": {
+            "name": "ChargePoint 5",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5947,
+                    12.9717
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS",
+        "connectorPowerKW": 350,
+        "manufacturer": "ABB",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 6",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.6447,
+                    13.0217
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS",
+        "connectorPowerKW": 350,
+        "manufacturer": "Tesla",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 7",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5948,
+                    12.9718
+                ]
+            }
+        }
+    },
+    {
+        "type": "GBT",
+        "connectorPowerKW": 60,
+        "manufacturer": "Siemens",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 8",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5949,
+                    12.9719
+                ]
+            }
+        }
+    },
+    {
+        "type": "CHAdeMO",
+        "connectorPowerKW": 50,
+        "manufacturer": "ABB",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 9",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5950,
+                    12.9720
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS2",
+        "connectorPowerKW": 350,
+        "manufacturer": "Tesla",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 10",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5951,
+                    12.9721
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS",
+        "connectorPowerKW": 350,
+        "manufacturer": "Siemens",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 11",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5952,
+                    12.9722
+                ]
+            }
+        }
+    },
+    {
+        "type": "GBT",
+        "connectorPowerKW": 60,
+        "manufacturer": "ABB",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 12",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5953,
+                    12.9723
+                ]
+            }
+        }
+    },
+    {
+        "type": "CHAdeMO",
+        "connectorPowerKW": 50,
+        "manufacturer": "Tesla",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 13",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5954,
+                    12.9724
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS2",
+        "connectorPowerKW": 350,
+        "manufacturer": "Siemens",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 14",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5955,
+                    12.9725
+                ]
+            }
+        }
+    },
+    {
+        "type": "CCS",
+        "connectorPowerKW": 350,
+        "manufacturer": "ABB",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 15",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5956,
+                    12.9726
+                ]
+            }
+        }
+    },
+    {
+        "type": "GBT",
+        "connectorPowerKW": 60,
+        "manufacturer": "Tesla",
+        "availability": true,
+        "chargePoint": {
+            "name": "ChargePoint 16",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.5957,
+                    12.9727
+                ]
+            }
+        }
+    }
+]
