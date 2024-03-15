@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  charge-estimation-server:
+    build: https://github.com/tusharprabhu26/charge-estimation-server.git
+    ports:
+      - '8080:8080'
+  asset-server:
+    build: https://github.com/tusharprabhu26/ev-charging-infra-CRUD.git
+    ports:
+      - '8081:8081'
+    environment:
+      - MONGO_URL=mongodb://mongo:27017/charging_stations
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo
+    ports:
+      - '27017:27017'
